@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "153044777434",
+    "firebase_url": "https://analytics-demo-9982e.firebaseio.com",
+    "project_id": "analytics-demo-9982e",
+    "storage_bucket": "analytics-demo-9982e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153044777434:android:c1a4b2d966a21fba",
+        "android_client_info": {
+          "package_name": "com.example.retrofitdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "153044777434-d8og5bqg61rd3p92ldp2que5jp34homq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0tXO-PFHT-gP6MMUGrE5V1Nph21sQKUU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "153044777434-d8og5bqg61rd3p92ldp2que5jp34homq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

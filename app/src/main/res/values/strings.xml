@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RetrofitDemo</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="CLIENT_ID">1qov2cmoknnwm9dlgc067uj7z0i5xf</string>
+</resources>

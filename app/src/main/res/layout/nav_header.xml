@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="176dp"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:gravity="bottom"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:background="#6441a5"
+    android:theme="@style/ThemeOverlay.AppCompat.Dark">
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:layout_width="75dp"
+        android:layout_height="75dp"
+        android:src="@mipmap/ic_launcher"
+        app:civ_border_color="#FFFFFF"
+        app:civ_border_width="2dp"
+        android:id="@+id/nav_profile_img"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingTop="8dp"
+        android:textSize="12dp"
+        android:text="Login Name"
+        android:textColor="#FFFFFF"
+        android:textStyle="bold"
+        android:id="@+id/nav_login_name" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/nav_email"
+        android:textStyle="bold"
+        android:textColor="#FFFFFF"
+        android:textSize="12dp"
+        android:text="Email" />
+
+
+</LinearLayout>
